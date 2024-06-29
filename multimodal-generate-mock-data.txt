@@ -1,0 +1,5 @@
+Please provide the image caption in less than 10 words and in English.
+Please pick the most appropriate category from electronics, jewelery, men's clothing, and women's clothing. Give me the category and nothing else.
+The category of the product is electronics. Please provide a title in less than 25 words and in English.
+Please provide the description of the product based on the above category and title in one paragraph. The description should be less than 300 words and in English.
+Please generate a rating between 0 and 5 where 0 is the lowest rating and 5 is the highest rating. At most 1 decimal place is allowed.
